@@ -8,6 +8,8 @@ and play quizzes. The app features a gamified experience with dynamic quizzes, s
 -Backend: Flask (Python)
 -Frontend: HTML, CSS, JavaScript
 -Database: SQLite
+
+
 🚀 Features
 -User-friendly interface
 -Create and play multiple-choice quizzes
