@@ -1,6 +1,8 @@
 # Quizzio
 📌 Introduction
-Welcome to Quizzo! This is an interactive and engaging quiz platform where users can join, create, and play quizzes. The app features a gamified experience with dynamic quizzes, scores, and an intuitive UI.
+Welcome to Quizzo!
+This is an interactive and engaging quiz platform where users can join, create,
+and play quizzes. The app features a gamified experience with dynamic quizzes, scores, and an intuitive UI.
 
 🛠 Tech Stack
 -Backend: Flask (Python)
