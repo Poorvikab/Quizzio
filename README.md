@@ -26,10 +26,15 @@ Database: SQLAlchemy ORM
 📁 Folder Structure
 
 /quizzo
-│
+
 ├── static/             # CSS, JS, images
+
 ├── templates/          # HTML templates (generate.html, quizplay.html, etc.)
+
 ├── app.py              # Main Flask app
+
 ├── models.py           # Database models
+
 ├── forms.py            # WTForms for user input
+
 └── README.md           # Project overview
